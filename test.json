@@ -1,4 +1,7 @@
 {
   "foo": "bar",
-  "bar": ["foo", "baz", 42]
+  "bar": ["foo", "baz", 42],
+  "baz": {
+    "foo": "bar"
+  }
 }
